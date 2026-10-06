@@ -1,0 +1,7 @@
+{
+  "id": "synthetic-access-check",
+  "input": "The apple is red.",
+  "questions": [
+    { "type": "predicate", "name": "red", "instructions": "Does the text say the apple is red?" }
+  ]
+}
